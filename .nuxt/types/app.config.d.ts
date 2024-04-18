@@ -1,11 +1,11 @@
 
 import type { CustomAppConfig } from 'nuxt/schema'
 import type { Defu } from 'defu'
-import cfg0 from "C:/projects/mdk_botstore/app.config"
+import cfg0 from "C:/projects/mdk_botstore1/app.config"
 
 declare const inlineConfig = {
   "nuxt": {
-    "buildId": "dev"
+    "buildId": "25aef837-75b4-4500-9005-dab91206acca"
   },
   "ui": {
     "primary": "green",

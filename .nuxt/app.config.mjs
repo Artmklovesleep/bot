@@ -4,7 +4,7 @@ import { defuFn } from 'defu'
 
 const inlineConfig = {
   "nuxt": {
-    "buildId": "dev"
+    "buildId": "25aef837-75b4-4500-9005-dab91206acca"
   },
   "ui": {
     "primary": "green",
@@ -43,6 +43,6 @@ if (import.meta.hot) {
   })
 }
 
-import cfg0 from "C:/projects/mdk_botstore/app.config.ts"
+import cfg0 from "C:/projects/mdk_botstore1/app.config.ts"
 
 export default /*@__PURE__*/ defuFn(cfg0, inlineConfig)
