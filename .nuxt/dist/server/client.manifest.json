@@ -1,4 +1,15 @@
 {
+  "_3zecB1Rk.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "3zecB1Rk.js",
+    "name": "nuxt-link",
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ]
+  },
   "_CvPl5tTm.js": {
     "resourceType": "script",
     "module": true,
@@ -7,24 +18,13 @@
     "file": "CvPl5tTm.js",
     "name": "index"
   },
-  "_DACE-9z0.js": {
+  "_DOcB-l9W.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "DACE-9z0.js",
+    "file": "DOcB-l9W.js",
     "name": "useToast",
-    "imports": [
-      "node_modules/nuxt/dist/app/entry.js"
-    ]
-  },
-  "_fjRTvQ6_.js": {
-    "resourceType": "script",
-    "module": true,
-    "prefetch": true,
-    "preload": true,
-    "file": "fjRTvQ6_.js",
-    "name": "nuxt-link",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ]
@@ -34,15 +34,15 @@
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "DwIr4TiL.js",
+    "file": "DEGrOfzo.js",
     "name": "default",
     "src": "layouts/default.vue",
     "isDynamicEntry": true,
     "imports": [
       "node_modules/nuxt-icon/dist/runtime/Icon.vue",
       "node_modules/nuxt/dist/app/entry.js",
-      "_fjRTvQ6_.js",
-      "_DACE-9z0.js",
+      "_3zecB1Rk.js",
+      "_DOcB-l9W.js",
       "_CvPl5tTm.js"
     ]
   },
@@ -291,12 +291,12 @@
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "C1wVnUDS.js",
+    "file": "C2pwIoZE.js",
     "name": "error-404",
     "src": "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_fjRTvQ6_.js",
+      "_3zecB1Rk.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "css": []
@@ -312,7 +312,7 @@
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "DST5qwoN.js",
+    "file": "D86abOD5.js",
     "name": "error-500",
     "src": "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue",
     "isDynamicEntry": true,
@@ -332,7 +332,7 @@
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "Dt1qrado.js",
+    "file": "DWKS1SlN.js",
     "name": "Icon",
     "src": "node_modules/nuxt-icon/dist/runtime/Icon.vue",
     "isDynamicEntry": true,
@@ -353,7 +353,7 @@
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "Clo7hHvv.js",
+    "file": "Blnf8UkA.js",
     "name": "IconCSS",
     "src": "node_modules/nuxt-icon/dist/runtime/IconCSS.vue",
     "isDynamicEntry": true,
@@ -374,7 +374,7 @@
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "t0f9eMhd.js",
+    "file": "BlAreyvO.js",
     "name": "entry",
     "src": "node_modules/nuxt/dist/app/entry.js",
     "isEntry": true,
@@ -390,13 +390,13 @@
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "S2I5Rh-F.js",
+    "file": "Bi8v1d2K.js",
     "name": "index",
     "src": "pages/index.vue",
     "isDynamicEntry": true,
     "imports": [
       "node_modules/nuxt/dist/app/entry.js",
-      "_DACE-9z0.js"
+      "_DOcB-l9W.js"
     ],
     "css": []
   },
